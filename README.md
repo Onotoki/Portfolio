@@ -34,9 +34,3 @@ Xin chào! Mình là sinh viên năm cuối trường Đại học Mỏ Địa C
 Bạn có thể xem trực tiếp Portfolio của mình tại đây:  
 👉 **[https://onotoki.github.io/Portfolio/](https://onotoki.github.io/Portfolio/)**
 
-## 📈 Thống Kê GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Onotoki&show_icons=true&theme=radical" alt="Onotoki's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onotoki&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
