@@ -35,6 +35,11 @@
     max-width: 1024px;
   }
 
+  section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+
   /* Header */
   .header_container {
     flex-direction: column;
